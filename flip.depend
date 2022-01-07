@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1638071219 source:c:\users\andyc\documents\itsa\test\flip\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1640092102 source:c:\users\andyc\downloads\flip\flip\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1640093069 source:c:\users\andyc\downloads\flip\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
